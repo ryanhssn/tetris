@@ -1,3 +1,3 @@
 # Tetris 𝌫 
 
-A tetris game build on react.
+A tetris game build on react hooks.
